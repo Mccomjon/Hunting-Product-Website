@@ -15,3 +15,16 @@ Hey there, I'm Beth, a passionate bow hunter. I recently tried out some new broa
 As an intermediate hunter for 10 years I've been using the same shotgun since childhood.  Over the years, the need for a fresh start became evident as the sights had been damaged and gun was overall unrealiably maintained.  I bought the MOSSBERG 500 and could immediately see a spike in my proficiency.  The Irons are dead on at 30 meters and my groupings were tighter than they've ever been.  Every mechanism works flawlessly and I couldn't be happier with the purchase.  
 
 ```
+
+##Inspiration
+
+Create a hypothetical hunting website.  Seeking inspiration from succesful well known hunting shops in terms of layout and product types.
+
+```
+
+https://www.cabelas.com/l/shotgun
+https://lancasterarchery.com/
+https://www.backcountryhunters.org/
+
+```
+
