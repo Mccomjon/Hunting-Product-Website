@@ -1,6 +1,45 @@
+
+    h1 {
+        font-size: 36px;
+    }
+
 body{
-    /*
-    color: darkblue;
-    background-color: lightgrey;
-    */
+    #color: darkblue;
+    #background-color: lightgrey;
+}
+.nav-list{
+    list-style-type: none;
+    box-shadow:0px 0px 10px var(#0a0a0a);
+    min-height: 150px;
+    overflow: hidden;
+    display:flex;
+    justify-content: flex-end;
+    align-items:flex-end;
+    color:rgb(202, 202, 202);
+}
+
+.nav-item:first-child{
+    margin-right:auto;
+    margin-left:1rem;
+}
+
+.nav-item {
+    list-style: none;
+    margin-right: 1rem;
+}
+
+.nav-item a {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    color:rgb(255, 255, 255)
+}
+
+
+
+.nav-container{
+    background: url(Images/HuntingTitleBanner.png);
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
 }

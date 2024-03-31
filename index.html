@@ -9,47 +9,40 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm bg-body-tertiary">
-            <div class="container-fluid">
-                <!--Need To Properly impliment picture as background of the Header-->
-                <a class="navbar-brand" href="#">
-                    <img src="/Images/HuntingTitleBanner.png" alt="Logo" width="1920" height="200" class="d-inline-block align-text-top">
-                    Hunting Guru's Supply
-                </a>
-              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-              </button>
-              <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                <ul class="navbar-nav">
-                  <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="#">About Us</a>
-                  </li>
-                  <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                      Browse Products
-                    </a>
-                    <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="#">Bows</a></li>
-                      <li><a class="dropdown-item" href="#">Rifles</a></li>
-                    </ul>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="#">Contact Us</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </nav>
+        <ul class="nav-container">        
+          <ul class="nav-list">
+            
+            <li class="nav-item">
+                <h1>Hunting Guru Supply</h1>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+             <li class="nav-item">
+                  <a class="nav-link" href="#">About Us</a>
+             </li>
+             <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Browse Products
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="Shop/Bows.html">Bows</a></li>
+                    <li><a class="dropdown-item" href="Shop/Rifles.html">Rifles</a></li>
+                  </ul>
+                </li>
+                <li class="nav-item">
+                      <a class="nav-link" href="#">Contact Us</a>
+                   </li>
+
+         </ul>
+         </ul>
     </header>
     <main>
         <section>
-            <!-- TODO: Background Banner-->
+            <!-- TODO: Background Banner? -->
             <div>
                 <!--<img src="Images/DogLakeBackground.jpg" alt="EthosStatementBackground" class="border: 1px solid #ddd border-radius: 4px padding: 5px width: 150px"> !-->
-                <h2>From Bow to Barrel: Gear Up for Success with Our Hunting Essentials</h2>
+                <h3>From Bow to Barrel: Gear Up for Success with Our Hunting Essentials</h3>
             </div>
         </section>
         <section>
@@ -61,14 +54,18 @@
                 </div>
                 <div class="carousel-inner">
                   <div class="carousel-item active">
+                    <a href="/Shop/Rifles.html">
                     <img src="Images/CarouselElementRifle.jpg" class="d-block w-100" alt="RifleCarousel">
+                    </a>
                     <div class="carousel-caption d-none d-md-block">
                       <h5>Rifles</h5>
                       <p>Shop Our Selection of Rifles and Shotguns</p>
                     </div>
                   </div>
                   <div class="carousel-item">
-                    <img src="Images/CarouselElementBow.jpg" class="d-block w-100" alt="BowCarousel">
+                    <a href="/Shop/Bows.html">
+                        <img src="Images/CarouselElementBow.jpg" class="d-block w-100" alt="BowCarousel">
+                    </a>
                     <div class="carousel-caption d-none d-md-block">
                       <h5>Bows</h5>
                       <p>Shop Our Selection of Bows and Crossbows.</p>
