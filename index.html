@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hunting Guru's Supply</title>
     <link rel="stylesheet" href="./styles.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
     <header>
@@ -39,29 +40,27 @@
                 <li>"Shotgun Enthusiast Sam" - Shotgun Review
                     As an intermediate hunter for 10 years I've been using the same shotgun since childhood.  Over the years, the need for a fresh start became evident as the sights had been damaged and gun was overall unrealiably maintained.  I bought the MOSSBERG 500 and could immediately see a spike in my proficiency.  The Irons are dead on at 30 meters and my groupings were tighter than they've ever been.  Every mechanism works flawlessly and I couldn't be happier with the purchase.</li>
                 </section>
+                <!-- Bootstrap Conversion to Cards -->
         <section>
-            <h2>Featured Products</h2>
+            <div class="container">
+                <h2 class="mt-5">Featured Products</h2>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="card">
+                            <h5 class="card-title">Whisper Seeker 30</h5>
+                            <img src="Images/Bow1.png" class="card-img-top" alt="Bow1">
+                            <div class="card-body">
+                                <p class="card-text">Price: $569</p>
+                                <a href="#" class="btn btn-primary">Buy Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    
 
-            <div>
-                <img src="./Images/Rifle1.png" alt="Rifle1">
-                <h1>Rifle1</h1>
-                <p>Rifle 1 Product Details</p>
-                <button>Buy Now</button>
+
+                </div>
             </div>
-            
-            <div>
-                <img src="./Images/Rifle2.png" alt="Rifle2">
-                <h1>Rifle2</h1>
-                <p>Product Details</p>
-                <button>Buy Now</button>
-            </div>
-            
-            <div>
-                <img src="./Images/Bow1.png" alt="Bow1">
-                <h1>Bow1</h1>
-                <p>Product Details</p>
-                <button>Buy Now</button>
-            </div>
+
             <!-- TODO: Featured product carroussel with price and buy now options-->
         </section>
     </main>
