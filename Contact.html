@@ -8,32 +8,30 @@
     <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-    <header>
-        <ul class="nav-container">        
-          <ul class="nav-list">
-            
+  <header>    
+        <ul class="nav-list">
+          
+          <li class="nav-item">
+              <h1>Hunting Guru Supply</h1>
+            </li>
             <li class="nav-item">
-                <h1>Hunting Guru Supply</h1>
+                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+            </li>
+           <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Browse Products
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="Bows.html">Bows</a></li>
+                  <li><a class="dropdown-item" href="Rifles.html">Rifles</a></li>
+                </ul>
               </li>
               <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-              </li>
-             <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    Browse Products
-                  </a> 
-                  <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="Bows.html">Bows</a></li>
-                    <li><a class="dropdown-item" href="Rifles.html">Rifles</a></li>
-                  </ul>
-                </li>
-                <li class="nav-item">
-                      <a class="nav-link" href="Contact.html">Contact Us</a>
-                   </li>
+                    <a class="nav-link" href="Contact.html">Contact Us</a>
+                 </li>
 
-         </ul>
-         </ul>
-    </header>
+       </ul>
+  </header>
     <main>
 
     <form>
@@ -42,18 +40,18 @@
                 <h2>Contact Us</h2>
             </div>
         <div class="mb-3">
-          <label for="InputEmail1" class="form-label">Email address</label>
-          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+          <label for="InputEmail" class="form-label">Email address</label>
+          <input type="email" class="form-control" id="InputEmail" aria-describedby="emailHelp">
           <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
         </div>
         <div class="mb-3">
           <label for="Subject" class="form-label">Subject</label>
-          <input type="Subject" class="form-control" id="Subject">
+          <input type="text" class="form-control" id="Subject">
         </div>
         
         <div class="mb-3">
             <label for="FormDescription" class="form-label">Description</label>
-            <textarea type="FormDescription" class="Form_Description" id="FormDescription"></textarea>
+            <textarea class="Form_Description" id="FormDescription"></textarea>
           </div>
         <button type="submit" class="btn btn-primary">Submit</button>
         </div>
