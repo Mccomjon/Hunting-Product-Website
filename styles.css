@@ -76,10 +76,14 @@ header{
     border-radius:2%;
     height:1000px;
 }
-.carousel-caption{
-    margin:556px;
+.carousel-caption p{
+    margin-bottom:556px;
     font-size:24px;
     font-weight:600;
+}
+.carousel-caption h1{
+        font-size:48px;
+        font-weight:600;
 }
 .card{
     box-shadow:0px 0px 10px var(#5a5a5a);
