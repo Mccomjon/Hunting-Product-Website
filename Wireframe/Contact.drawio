@@ -1,0 +1,123 @@
+<mxfile host="app.diagrams.net" modified="2024-04-01T02:07:34.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="tf5hcLgNKWiA3bVirkEF" version="24.2.1" type="device">
+  <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
+    <mxGraphModel dx="779" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T11lgbOliv7DSvSzRczO-74" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="25" width="1050" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-75" value="" style="html=1;shadow=0;dashed=0;fillColor=#F8F9FA;strokeColor=none;fontSize=16;fontColor=#181819;align=left;spacing=2;spacingLeft=55;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry y="110" width="1050" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-76" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.logo;fillColor=#54407A;strokeColor=none;sketch=0;" vertex="1" parent="T11lgbOliv7DSvSzRczO-75">
+          <mxGeometry width="40" height="40" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-77" value="Hunting Supply Guru" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" vertex="1" parent="T11lgbOliv7DSvSzRczO-75">
+          <mxGeometry x="30" y="90" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-78" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-79" value="https://www.huntingguru.com/Bows" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-80" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry y="310" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-81" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry y="650" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-82" value="Salescard" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="430" y="350" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-83" value="Buy" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="540" y="515" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-84" value="Price" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="450" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-85" value="Title" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="440" y="365" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-86" value="Salescard" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="130" y="350" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-87" value="Buy" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="240" y="515" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-88" value="Price" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="150" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-89" value="Title" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="140" y="365" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-90" value="Salescard" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="740" y="350" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-91" value="Buy" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="850" y="515" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-92" value="Price" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="760" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-93" value="Title" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="750" y="365" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-94" value="Bows" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="490" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-95" value="Salescard" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="430" y="690" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-96" value="Buy" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="540" y="855" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-97" value="Price" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="450" y="860" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-98" value="Title" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="440" y="705" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-99" value="Salescard" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="731" y="705" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-100" value="Buy" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="841" y="870" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-101" value="Price" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="751" y="875" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-102" value="Title" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="741" y="720" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-103" value="Salescard" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="130.5" y="695" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-104" value="Buy" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;fillColor=none;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="240.5" y="860" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-105" value="Price" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="150.5" y="865" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-106" value="Title" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="140.5" y="710" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-107" value="Rifles" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="480" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-108" value="" style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=0;" vertex="1" parent="T11lgbOliv7DSvSzRczO-74">
+          <mxGeometry x="-5" y="970" width="1050" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-109" value="Home" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;whiteSpace=wrap;html=1;" vertex="1" parent="T11lgbOliv7DSvSzRczO-108">
+          <mxGeometry width="262.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T11lgbOliv7DSvSzRczO-110" value="Contact" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;whiteSpace=wrap;html=1;" vertex="1" parent="T11lgbOliv7DSvSzRczO-108">
+          <mxGeometry x="787.5" width="262.5" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
