@@ -1,3 +1,11 @@
+# Name
+
+Jonathan McCombs
+
+# Description
+
+Mock Hunting website created to prove basic competency with html and css
+
 # Hunting Shop Website
 
 Hosting link: https://mccomjon.github.io/Hunting-Product-Website/
@@ -11,13 +19,13 @@ I'm an avid hunter in a new hunting area with a larger range, my old rifle fell 
 "Bow-Hunting Beth" - Broadheads Review
 Hey there, I'm Beth, a passionate bow hunter. I recently tried out some new broadheads during deer season, and I'm thrilled with the results. These broadheads offer exceptional accuracy and durability, ensuring clean and ethical kills every time. As someone dedicated to responsible hunting practices, I highly recommend these broadheads to fellow bow hunters looking to elevate their game.
 
-"Shotgun Enthusiast Sam" - Shotgun Review
+Sam - Average Joe
 As an intermediate hunter for 10 years I've been using the same shotgun since childhood.  Over the years, the need for a fresh start became evident as the sights had been damaged and gun was overall unrealiably maintained.  I bought the MOSSBERG 500 and could immediately see a spike in my proficiency.  The Irons are dead on at 30 meters and my groupings were tighter than they've ever been.  Every mechanism works flawlessly and I couldn't be happier with the purchase.  
 
 ```
 
 ##Inspiration
-
+ 
 Create a hypothetical hunting website.  Seeking inspiration from succesful well known hunting shops in terms of layout and product types.
 
 ```

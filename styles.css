@@ -2,9 +2,6 @@
     h1 {
         font-size: 36px;
     }
-header{
-    background-color:#000000;
-}
 body{
     background-color:#747474;
 }
@@ -42,7 +39,7 @@ body{
 }
 
 
-.nav-container{
+header{
     background: url(Images/HuntingTitleBanner.png);
     background-size: 100%;
     margin: 0;
@@ -62,16 +59,17 @@ body{
     font-size:24px;
     font-weight:400;
     color:rgb(218, 218, 218);
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; 
 }
 @media (max-height: 1000px) {
     .EthosBackground {
         max-height: 200px; /* Adjust width to fit the container with some padding */ /* Reset margin for the last card in a row */
     }
 }
-.EthosBackground p{
+.EthosBackground li{
     margin:30px;
     font-style: oblique;
+    list-style-type: none;
 }
 .carousel-inner{
     margin:16px;
