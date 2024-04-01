@@ -147,11 +147,48 @@ body{
 }
 
 .Form_Container{
-    width:75%;
-    height:500px;
+    width:50%;
+    height:750px;
     margin: auto;
     background-color:#ffffff;
     border-radius:16px;
     justify-content:center;
     align-items:center;
+}
+.Form_Title{
+    display:flex;
+    justify-content: center;
+    margin:16px;
+}
+.form-label{
+    font-size: 22px;
+    font-weight: 500;
+    color:rgb(0, 0, 0);
+    margin-left:24px;
+}
+.form-text{
+    font-size: 18px;
+    font-weight: 400;
+    color:rgb(0, 0, 0);
+    margin-left:24px;
+}
+.form-control{
+    font-size: 22px;
+    font-weight: 500;
+    color:rgb(0, 0, 0);
+    margin-left:24px;
+    width:90%;
+    border-radius:4px;
+}
+.Form_Description{
+    display:flex;
+    justify-content: center;
+    margin:16px;
+    width:90%;
+    height:300px;
+    border-radius:4px;
+    margin-left:24px;
+}
+.btn-primary{
+    margin-left:24px;
 }
