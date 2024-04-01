@@ -145,3 +145,13 @@ body{
         margin-right: 0; /* Reset margin for the last card in a row */
     }
 }
+
+.Form_Container{
+    width:75%;
+    height:500px;
+    margin: auto;
+    background-color:#ffffff;
+    border-radius:16px;
+    justify-content:center;
+    align-items:center;
+}
