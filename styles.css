@@ -55,7 +55,7 @@ body{
     background-size: 100%;
     margin: 0;
     padding: 0;
-    height:500px;
+    height:10rem;
     /*max-width: 100%;*/
     background-repeat: no-repeat; 
     /*ethos font styling*/
@@ -70,12 +70,13 @@ body{
     font-style: oblique;
     list-style-type: none;
 }
-.PNGCarBox{
-    margin:16px;
-    height:700px;
+/*Carousel Styling*/
+.CarouselStylingContainer{
+    margin:2rem;
+    height:auto;
 }
 .carousel-caption p{
-    margin-bottom:56px;
+    margin-bottom:1rem;
     font-size:24px;
     font-weight:600;
 }
@@ -83,6 +84,9 @@ body{
         font-size:48px;
         font-weight:600;
 }
+/*End of Carousel Styling*/
+
+/*Cards Styling*/
 .card{
     box-shadow:0px 0px 10px;
     border-radius: 12px;
@@ -99,7 +103,6 @@ body{
     justify-content: center;
     align-items:flex-end;
     margin-top:18px;
-    
 }
 .card-body{
     display:flex;
@@ -165,6 +168,7 @@ body{
     }
 }
 
+/*End of Card Styling*/
 .Form_Container{
     width:50%;
     height:750px;
