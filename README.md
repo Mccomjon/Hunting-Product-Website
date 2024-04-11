@@ -24,7 +24,7 @@ As an intermediate hunter for 10 years I've been using the same shotgun since ch
 
 ```
 
-##Inspiration
+## Inspiration
  
 Create a hypothetical hunting website.  Seeking inspiration from succesful well known hunting shops in terms of layout and product types.
 
