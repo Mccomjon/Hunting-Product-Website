@@ -169,6 +169,8 @@ body{
 }
 
 /*End of Card Styling*/
+
+/*Start of Forum Styling*/
 .Form_Container{
     width:50%;
     height:750px;
@@ -217,6 +219,9 @@ body{
 .btn-primary{
     margin-left:24px;
 }
+/*End of Forum Styling*/
+
+/*Breakpoint Styles*/
 
 @media (max-width: 500px) {
     /*Header Styling*/
