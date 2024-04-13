@@ -1,3 +1,4 @@
+
 /*Webpage Background Color*/
 body{
     background-color:#747474;
@@ -167,7 +168,7 @@ header{
 /*Start of Forum Styling*/
 .Form_Container{
     width:50%;
-    height:750px;
+    height:auto;
     margin: auto;
     background-color:#ffffff;
     border-radius:16px;
@@ -204,7 +205,7 @@ header{
     justify-content: center;
     margin:16px;
     width:90%;
-    height:300px;
+    height:12rem;
     border-radius:4px;
     margin-left:24px;
     overflow-wrap: break-word;
@@ -255,6 +256,42 @@ header{
         font-size:25px;
         font-weight:600;
     }
+    /*Breakpoint Forum Style*/
+    .Form_Title{
+        margin:10px;
+    }
+    .form-label{
+        font-size: 18px;
+        font-weight: 500;
+        color:rgb(0, 0, 0);
+        margin-left:18px;
+    }
+    .form-text{
+        font-size: 14px;
+        font-weight: 400;
+        color:rgb(0, 0, 0);
+        margin-left:18px;
+    }
+    .form-control{
+        font-size: 22px;
+        font-weight: 500;
+        color:rgb(0, 0, 0);
+        margin-left:18px;
+        width:90%;
+        border-radius:4px;
+        height:2rem;
+    }
+    .Form_Description{
+        display:flex;
+        justify-content: center;
+        margin:16px;
+        width:90%;
+        height:12rem;
+        border-radius:4px;
+        margin-left:18px;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+    }
 }
 
 @media (max-width: 650px) {
@@ -272,6 +309,15 @@ header{
     }
     .CarouselStylingContainer{
         margin:1rem;
+    }
+    .Form_Container{
+        width:80%;
+        height:auto;
+        margin: auto;
+        background-color:#ffffff;
+        border-radius:16px;
+        justify-content:center;
+        align-items:center;
     }
 }
 
